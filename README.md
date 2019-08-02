@@ -1,7 +1,7 @@
-Distributed Application Development Assignment 
-@author: jonathan
-@author: christina
-@author: jq
+# CHAT APPLICATION
+### Using TCP and UDP protocols
 
-A chat application using Java as the programming language,
-using TCP and UDP protocols to develop a chat application.
+#### Key Features:
+###### Simple interface
+###### Real time chat with multiple users at anytime
+###### Voice chat 1 on 1 users
